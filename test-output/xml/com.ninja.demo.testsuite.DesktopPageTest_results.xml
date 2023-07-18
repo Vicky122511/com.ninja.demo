@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ninja Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.866">
+  <properties />
+  
+  
+            <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="14.607" classname="com.ninja.demo.testsuite.DesktopPageTest" />
+                <testcase name="verifyProductArrangeInAlphabeticalOrder" time="7.259" classname="com.ninja.demo.testsuite.DesktopPageTest" />
+      
+</testsuite>

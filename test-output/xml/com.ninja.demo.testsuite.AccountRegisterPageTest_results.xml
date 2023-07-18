@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ninja Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.411">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToLoginPageSuccessfully" time="23.411" classname="com.ninja.demo.testsuite.AccountRegisterPageTest" />
+      
+</testsuite>
